@@ -1,0 +1,67 @@
+0          /  PSS/E-30.0, TUE, JUN 28 2011   9:00
+    1,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+    2,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+    3,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+    4,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+    5,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+    6,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+    7,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+    8,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+    9,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+   10,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+   11,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+   12,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+   13,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+   14,   1.0600,      0.9400,      1.1000,      0.9000,      1,    1.0000
+0 / End of Bus Voltage Constraint data, begin Adjustable Bus Shunt data
+0 / End of Adjustable Bus Shunt data, begin Bus Load data
+0 / End of Bus Load data, begin Adjustable Bus Load Tables
+0 / End of Adjustable Bus Load Tables, begin Generator Dispatch data
+    1,  '1 ',   1.000,    1
+    2,  '1 ',   1.000,    2
+    3,  '1 ',   1.000,    3
+    6,  '1 ',   1.000,    4
+    8,  '1 ',   1.000,    5
+0 / End of Generator Dispatch data, begin Active Power Dispatch Tables
+    1,  332.4,   0.0,   1.0000,   1,   1,    1,
+    2,  140.0,   0.0,   1.0000,   1,   1,    2,
+    3,  100.0,   0.0,   1.0000,   1,   1,    3,
+    4,  100.0,   0.0,   1.0000,   1,   1,    4,
+    5,  100.0,   0.0,   1.0000,   1,   1,    5,
+0 / End of Active Power Dispatch Tables, begin Generation Reserve data
+0 / End of Generation Reserve data, begin Generation Reactive Capability data
+0 / End of Generation Reactive Capability data, begin Adjustable Branch Reactance data
+0 / End of Adjustable Branch Reactance data, begin Piece-wise Linear Cost Tables
+0 / End of Piece-wise Linear Cost Tables, begin Piece-wise Quadratic Cost Tables
+0 / End of Piece-wise Quadratic Cost Tables, begin Polynomial Cost Tables
+    1,  ' Gen-1 ',   0.000,    200.000,    63.000,    0.000,   0.000
+    2,  ' Gen-2 ',   0.000,    175.000,    350.00,    0.000,   0.000
+    3,  ' Gen-3 ',   0.000,    100.000,    1250.0,    0.000,   0.000
+    4,  ' Gen-6 ',   0.000,    325.000,    166.80,    0.000,   0.000
+    5,  ' Gen-8 ',   0.000,    300.000,    500.00,    0.000,   0.000
+0 / End of Polynomial Cost Tables, begin Period Reserve data
+0 / End of Period Reserve data, begin Branch Flow Constraint data
+    1,     2,   '1 ',   '1 ',   3.42,   -3.42,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    2,     3,   '1 ',   '1 ',   1.71,   -1.71,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    2,     4,   '1 ',   '1 ',   1.71,   -1.71,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    1,     5,   '1 ',   '1 ',   1.71,   -1.71,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    2,     5,   '1 ',   '1 ',   1.71,   -1.71,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    3,     4,   '1 ',   '1 ',   1.71,   -1.71,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    4,     5,   '1 ',   '1 ',   1.71,   -1.71,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    7,     8,   '1 ',   '1 ',   0.50,   -0.50,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    7,     9,   '1 ',   '1 ',   0.65,   -0.65,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    9,    10,   '1 ',   '1 ',   0.50,   -0.50,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    6,    11,   '1 ',   '1 ',   0.50,   -0.50,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    6,    12,   '1 ',   '1 ',   0.50,   -0.50,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    6,    13,   '1 ',   '1 ',   0.50,   -0.50,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    9,    14,   '1 ',   '1 ',   0.50,   -0.50,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+   10,    11,   '1 ',   '1 ',   0.50,   -0.50,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+   12,    13,   '1 ',   '1 ',   0.50,   -0.50,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+   13,    14,   '1 ',   '1 ',   0.50,   -0.50,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    5,     6,   '1 ',   '1 ',   0.65,   -0.65,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    4,     7,   '1 ',   '1 ',   0.40,   -0.40,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+    4,     9,   '1 ',   '1 ',   0.65,   -0.65,    1000.00,   -1000.00,   1,   1,   1.0000,    0
+0 / End of Branch Flow Constraint data, begin Interface Flow data
+0 / End of Interface Flow data, begin Linear Constraint Equation Dependency data
+0 / End of Linear Constraint Equation Dependency data, begin 2-terminal dc Line Constraint data
+0 / End of 2-terminal dc Line Constraint data

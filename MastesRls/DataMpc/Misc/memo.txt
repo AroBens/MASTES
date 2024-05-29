@@ -1,0 +1,59 @@
+
+						G		D		L		X		A
+	case4gs				2		4		4
+	case6ww				3		3		11
+	case9				3		3		9
+	case18				1		15		17
+	case30				6		20		41
+	case39				10		21		34		12
+	case57				7		42		63		17
+	case69				1		48		68
+	case118				54		99		175		11
+	case300				69		201		304		107
+	case1354pegase		260		673		1757	234
+	case2869pegase		510		1491	4086	493		3
+
+Can
+	case4_dist			2		3		2		1
+	case9Q				3		3		9
+	case9target			3		3		9
+	case22				1		21		21
+	case14				5		11		17		3
+	case30pwl			6		20		41
+	case30Q				6		20		41
+	case85				1		59		84
+	case_ieee30			6		21		37		4
+	case89pegase		12		35		178		32
+	case141				1		84		140
+	case145				50		64		401		52
+	case_ACTIVSg200		38		108		179		66
+	case_ACTIVSg500		56		200		466		131
+	case2383wp			327		1826	2726	164		6
+	case9241pegase		1445	4895	14730	1268	51
+	case13659pegase		4092	5544	14754	5655	58
+
+Multi-Gen
+	case5
+	case24_ieee_rts
+	case_RTS_GMLC
+	case1888rte
+	case1951rte
+	case3120sp
+	case3012wp
+	case2848rte
+	case2868rte
+	case3375wp
+	case_ACTIVSg2000
+	case2737sop
+	case2736sp
+	case2746wop
+	case2746wp
+	case6468rte
+	case6470rte
+	case6495rte
+	case6515rte
+	case_ACTIVSg10k
+	case_ACTIVSg25k
+	case_ACTIVSg70k
+	case_SyntheticUSA
+
